@@ -2,25 +2,26 @@
 
 ## Tentang Saya
 
-Selamat datang di profil GitHub saya! Saya seorang dosen dengan spesialisasi dalam **Computer Vision** dan **Data Science**. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
+Selamat datang di profil GitHub saya! **UwU** Saya adalah mahasiswa Politeknik Negeri Bandung (POLBAN) jurusan D4 Teknik Informatika.Saya percaya bahwa teknologi akan membantu umat manusia untuk melakukan hal yang luar biasa,dengan ini saya berkomitmen untuk menjadi salah satu orang yang akan membuat terknologi luar biasa.
 
 ## Kepakaran
 
-- **Computer Vision**: Pengalaman dalam pengolahan gambar dan video, pengenalan pola, dan aplikasi kecerdasan buatan untuk interpretasi visual data.
-- **Data Science**: Keahlian dalam analisis data, machine learning, dan big data. Berpengalaman dalam menggunakan Python, R, TensorFlow, dan PyTorch untuk membangun model prediktif dan analitik.
+- **Java**: Keahlian saya dalam membuat program dalam bahasa **Java** 
+- **C++/C**: Keahlian saya dalam membuat program dalam bahasa **C++/C**
+- **Word/Excel/PowerPoint** : Keahlian saya dalam mengoperasikan **Word**,**Excel** dan **PowerPoint**
+- **Cyber Security** : Saya masih belajar dalam bidang ini
 
 ## Pendidikan
 
-- 
-- Master dalam ....
+- SMAN 1 Sumedang
 
 ## Proyek dan Kontribusi
 
-Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
+Saya telah berkontribusi pada berbagai proyek yang melibatkan scrapping data,membuat program TicTacToe dalam bahasa C++ dan membuat PKM
 
-- Pengembangan sistem pengenalan objek real-time untuk aplikasi keamanan.
-- Analisis sentimen pada data sosial media menggunakan teknik NLP untuk memahami tren dan opini publik.
-- 
+- Menjadi yang bertanggung jawab atas code program TicTacToe dalam program bahasa C++.
+- Berpatipasi dalam pembuatan PKM GFT
+- Melakukan scrapping data dan membuat stakeholdernya
 
 
 ## Menghubungi Saya
@@ -28,5 +29,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data komp
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
 - Email: muhammad.adhyaksa.tif423@polban.ac.id
+- Whatsapp : 081772321546
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
+
