@@ -23,6 +23,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan scrapping data,mem
 - Berpatipasi dalam pembuatan PKM GFT
 - Melakukan scrapping data dan membuat stakeholdernya
 
+__*Github*__
 
 ## Menghubungi Saya
 
