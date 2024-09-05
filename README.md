@@ -2,9 +2,9 @@
 
 Nothing Special For Now 
 
-![Anime_1](./neonetz/anime/WAR_01.jpeg)
+![Anime_1](/neonetz/anime/WAR_01.jpeg)
 
-![Sakayanagi Arisu](https://media.tenor.com/8k9j1l3J0XQAAAAC/sakayanagi-arisu-classroom-of-the-elite.gif)
+![Sakayanagi Arisu](https://tenor.com/view/sakayanagi-arisu-classroom-of-the-elite-anime-smug-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-gif-8192137016590114923)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/neonetz) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]
