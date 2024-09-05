@@ -2,7 +2,8 @@
 
 Nothing Special For Now 
 
-![Sakayanagi Arisu](https://media.tenor.com/8k9j1l3J0XQAAAAC/sakayanagi-arisu-classroom-of-the-elite.gif)
+![Anime_1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9WdoUpFqIDfgtnTEB7fuDh8aiYkcEM46Vop_qMzt_d7eM0tPE8UmOY3wxupFV5Wsu_E&usqp=CAU)
+![Sakayanagi Arisu](https://media.tenor.com/ypCo35T9cLoAAAAM/sakayanagi-classroom-of-the-elite.gif)
 
 
 ## 🌐 Socials:
